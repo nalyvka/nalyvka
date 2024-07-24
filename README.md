@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on **completing the TOP curriculum & the pinned python repos**
 
 - 🌱 I’m currently learning **real/complex analysis (disillusioned with the current pacing of my uni courses), PCB design, and 3D printing (with Fusion360) for prototyping mechanical builds so I can actually integrate my circuit designs into something portable**
+  
+- 📬 Contact me at my public email address or discord (username == nalyvka)
 
 - ⚡ Fun fact **I like to design figurines with BambuX1C and Blender**
 
