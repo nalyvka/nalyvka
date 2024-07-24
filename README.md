@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalyvka&label=Profile%20views&color=0e75b6&style=flat" alt="nalyvka" /> </p>
 
-- 🔭 I’m currently working on **css-exercises (to later fill out the landingPage repo), and pythonBasics (an upcoming guide/tutorial on Python**
+- 🔭 I’m currently working on **css-exercises (to later fill out the landingPage repo), and pythonBasics (an upcoming guide/tutorial on Python)**
 
 - 🌱 I’m currently learning **real/complex analysis (disillusioned with the current pacing of my uni courses), PCB design, and 3D printing**
 
