@@ -6,7 +6,7 @@
 
 - 📬 Contact me at **my public email address or discord (username == nalyvka)**
 
-- ⚡ Fun fact **I like to design figurines with BambuX1C and Blender**
+- ⚡ Fun fact **I like to slice prints with BambuX1C and Blender/Fusion360, and design circuits with KiCad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
