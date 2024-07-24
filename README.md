@@ -1,5 +1,3 @@
-<h3 align="center">Physics Undergraduate</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalyvka&label=Profile%20views&color=0e75b6&style=flat" alt="nalyvka" /> </p>
 
 - 🔭 I’m currently working on **completing the TOP curriculum & the pinned python repos**
