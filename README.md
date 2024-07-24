@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm nalyvka</h1>
 <h3 align="center">Physics Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalyvka&label=Profile%20views&color=0e75b6&style=flat" alt="nalyvka" /> </p>
 
-- 🔭 I’m currently working on **css-exercises & the pinned python repos**
+- 🔭 I’m currently working on **completing the TOP curriculum & the pinned python repos**
 
 - 🌱 I’m currently learning **real/complex analysis (disillusioned with the current pacing of my uni courses), PCB design, and 3D printing (with Fusion360) for prototyping mechanical builds so I can actually integrate my circuit designs into something portable**
 
-- 💬 Ask me about **Python, HTML, CSS, Arduino IDE**
-
-- ⚡ Fun fact **I like to design figurines with 3D printing and Blender**
+- ⚡ Fun fact **I like to design figurines with BambuX1C and Blender**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
