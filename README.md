@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalyvka&label=Profile%20views&color=0e75b6&style=flat" alt="nalyvka" /> </p>
 
-- 🔭 I’m currently working on **completing the The Odin Project Foundation/NodeJS courses & the pinned python repos**
+- 🔭 I’m currently working on **completing The Odin Project Foundation/NodeJS courses & the pinned python repos**
 
 - 🌱 I’m currently learning **CSS & VPython**
 
