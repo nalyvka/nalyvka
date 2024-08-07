@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **css-exercises (to later fill out the landingPage repo), and pythonBasics (an upcoming guide/tutorial on Python)**
 
-- 🌱 I’m currently learning **real/complex analysis (disillusioned with the current pacing of my uni courses), PCB design, and 3D printing**
+- 🌱 I’m currently learning **real/complex analysis (disillusioned with the current pacing of my uni courses) PCB design, and 3D printing: also working on the The Odin Project's Foundations course, which I hope to finish by the end of this month**
 
 - 📬 Contact me at **my public email address or discord (username == nalyvka)**
 
